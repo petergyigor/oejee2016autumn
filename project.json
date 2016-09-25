@@ -14,12 +14,30 @@
 			],
 			"interfaces": [
 				{
-					"tpye": "restful",
+					"type": "restful",
 					"goal": "handle crud operations"
 				},
 				{
 					"type": "jms",
 					"goal": "bulk upload data"
+				}
+			]
+		},
+		{
+			"name": "projectscheduler",
+			"description": "Project task scheduling",
+			"platform": "weblogic",
+			"members": [
+				{
+					"name": "Kopiás Péter",
+					"neptun": "OI0U4N",
+					"github": "petrox"
+				}
+			],
+			"interfaces": [
+				{
+					"type": "restful",
+					"goal": "handle crud operations"
 				}
 			]
 		}

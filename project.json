@@ -40,6 +40,20 @@
 					"goal": "handle crud operations"
 				}
 			]
+		},
+		{
+			"name": "Rest-o-ffice",
+			"description": "Business management tool for restaurants",
+			"platform": "jboss",
+			"members": [
+				{
+					"name": "Kostenszky Kálmán",
+					"neptun": "YSMBDT",
+					"github": "K987"
+				}
+			],
+			"interfaces": [
+			]
 		}
 	]
 }

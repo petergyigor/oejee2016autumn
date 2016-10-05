@@ -54,6 +54,24 @@
 			],
 			"interfaces": [
 			]
+		},
+		{
+			"name": "anglerregistry",
+			"description": "Management registry for angler associations",
+			"platform": "jboss",
+			"members": [
+				{
+					"name": "Gyigor Péter",
+					"neptun": "EZW6K1",
+					"github": "petergyigor"
+				}
+			],
+			"interfaces": [
+				{
+					"type": "restful",
+					"goal": "handle crud operations"
+				}
+			]
 		}
 	]
 }
